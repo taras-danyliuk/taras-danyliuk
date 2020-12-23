@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+#### Some fun projects:
+ - [Miner game](https://taras.danyliuk.github.io/miner-game)
+ - [Sudoku winner](https://taras-danyliuk.github.io/sudokuWinner/)
+ 
 <!--
 **taras-danyliuk/taras-danyliuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
