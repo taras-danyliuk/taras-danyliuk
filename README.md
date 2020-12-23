@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Personal website - [https://taras.danyliuk.github.io](https://taras.danyliuk.github.io)
+
 #### Some fun projects:
  - [Miner game](https://taras.danyliuk.github.io/miner-game)
  - [Sudoku winner](https://taras-danyliuk.github.io/sudokuWinner/)
