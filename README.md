@@ -5,6 +5,7 @@
 #### Some fun projects:
  - [Miner game](https://taras-danyliuk.github.io/miner-game)
  - [Sudoku winner](https://taras-danyliuk.github.io/sudoku-winner/)
+ - [Hex To RGB converter](https://taras-danyliuk.github.io/hex-to-rgb/)
  
 <!--
 **taras-danyliuk/taras-danyliuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
