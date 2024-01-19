@@ -1,10 +1,10 @@
 #### Personal website:
-[https://taras.danyliuk.github.io](https://taras-danyliuk.github.io)
+[https://dnlk.info](https://dnlk.info)
 
 
 #### Some fun projects:
- - [Miner game](https://taras-danyliuk.github.io/miner-game)
- - [Sudoku winner](https://taras-danyliuk.github.io/sudoku-winner/)
+ - [Miner game](https://miner.dnlk.info)
+ - [Sudoku winner](https://sudoku-winner.dnlk-info)
  - [Hex To RGB converter](https://taras-danyliuk.github.io/hex-to-rgb/)
  
 <!--
